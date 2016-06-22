@@ -1,0 +1,6 @@
+module.exports = {
+
+	ACTORS_RECEIVED: 'ACTORS_RECEIVED',
+	ACTOR_CREATED: 'ACTOR_CREATED'
+
+}
