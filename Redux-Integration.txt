@@ -1,0 +1,13 @@
+1. npm install redux, react-redux, redux-thunk --save
+2. mkdir constants, reducers, actions, stores
+3. create constants file, name first action
+4. create reducer for model
+5. create store, import reducer
+6. create actions file, create first action
+7. create utils directory, insert APIManager.js
+8. npm install superagent
+9. create APIManager, set up get request
+10. import APIManager to component, test
+11. Integrate Provider and store to App.js
+12. register component to store with stateToProps and { connect }
+13. 
